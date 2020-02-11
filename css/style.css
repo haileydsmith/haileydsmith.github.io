@@ -57,10 +57,10 @@ body{
     margin-top: 30px;
     position: relative;
     background-color: slategray;
+    background-image: url(../IMG/Rico.jpg);
     background-repeat: no-repeat;
     background-position:100px 200px;
     background-position: center top;
-    align-items: center;
 }
 
 #main-footer{
